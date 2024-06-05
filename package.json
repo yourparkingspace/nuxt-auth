@@ -1,6 +1,6 @@
 {
     "name": "@yourparkingspace/nuxt-auth",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Enhanced @nuxtjs/auth module with runtime config",
     "main": "lib/index.js",
     "license": "ISC",
