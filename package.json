@@ -6,8 +6,7 @@
     "license": "ISC",
     "dependencies": {
         "@nuxtjs/auth": "^4.9.1",
-        "consola": "^2.15.3",
-        "lodash.merge": "^4.6.2",
+        "deepmerge": "^4.3.1",
         "lodash.uniq": "^4.5.0"
     },
     "repository": {
