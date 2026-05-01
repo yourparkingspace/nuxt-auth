@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: nuxt-auth
+  annotations:
+    github.com/project-slug: yourparkingspace/nuxt-auth
+spec:
+  type: service
+  lifecycle: production
+  owner: marketplace-frontend
